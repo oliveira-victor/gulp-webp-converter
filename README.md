@@ -13,7 +13,7 @@ This repository contains the source code of an image converter, for multiple pur
 
 2. Navigate to the project directory
    ```bash
-   cd project
+   cd gulp-webp-converter
 
 3. Install dependencies
    ```bash
